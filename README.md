@@ -14,9 +14,9 @@
 ### Latest Posts
 
 <!--START_SECTION:feed-->
-* [Assorted thoughts on documentation](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;thoughts-on-docs&#x2F;)
-* [On &quot;lurking&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-lurking&#x2F;)
-* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
-* [Build your own Probot](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;build-your-own-probot&#x2F;)
-* [New features of GitHub Actions v2](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;new-features-of-github-actions&#x2F;)
+* [📩 : TypeScript for Everyone 🚀](https:&#x2F;&#x2F;charlespeters.net&#x2F;newsletters&#x2F;typescript-for-everyone)
+* [Twenty Twenty](https:&#x2F;&#x2F;charlespeters.net&#x2F;writing&#x2F;twenty-twenty)
+* [Transitions](https:&#x2F;&#x2F;charlespeters.net&#x2F;writing&#x2F;transitions)
+* [Call vs Apply](https:&#x2F;&#x2F;charlespeters.net&#x2F;writing&#x2F;call-vs-apply)
+* [Typed Reducer](https:&#x2F;&#x2F;charlespeters.net&#x2F;writing&#x2F;typed-reducer)
 <!--END_SECTION:feed-->
