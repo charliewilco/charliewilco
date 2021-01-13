@@ -1,7 +1,8 @@
 🧑‍💻
 
-Hi, I'm Charlie (they/them).
-
+- 🔭 I’m currently working on [Downwrite](https://github.com/charliewilco/downwrite)
+- 🌱 I’m currently learning Kotlin and React Native
+- 😄 Pronouns: they/them
 
 ### Elsewhere
 
@@ -13,5 +14,4 @@ Hi, I'm Charlie (they/them).
 ### Latest Posts
 
 <!--START_SECTION:feed-->
-...
 <!--END_SECTION:feed-->
