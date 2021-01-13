@@ -14,9 +14,9 @@
 ### Latest Posts
 
 <!--START_SECTION:feed-->
-* [📩 : TypeScript for Everyone 🚀](https:&#x2F;&#x2F;charliwil.co&#x2F;newsletters&#x2F;typescript-for-everyone)
-* [Twenty Twenty](https:&#x2F;&#x2F;charliwil.co&#x2F;writing&#x2F;twenty-twenty)
-* [Transitions](https:&#x2F;&#x2F;charliwil.co&#x2F;writing&#x2F;transitions)
-* [Call vs Apply](https:&#x2F;&#x2F;charliwil.co&#x2F;writing&#x2F;call-vs-apply)
-* [Typed Reducer](https:&#x2F;&#x2F;charliwil.co&#x2F;writing&#x2F;typed-reducer)
+* [📩 : TypeScript for Everyone 🚀](https:&#x2F;&#x2F;charliewil.co&#x2F;newsletters&#x2F;typescript-for-everyone)
+* [Twenty Twenty](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;twenty-twenty)
+* [Transitions](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;transitions)
+* [Call vs Apply](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;call-vs-apply)
+* [Typed Reducer](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;typed-reducer)
 <!--END_SECTION:feed-->
