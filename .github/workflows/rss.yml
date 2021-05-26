@@ -20,4 +20,3 @@ jobs:
           readme-section: feed
           branch: main
           max: 5
-          template: * [{{ title }}]({{ link }})
