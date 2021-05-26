@@ -18,3 +18,6 @@ jobs:
         with:
           feed-url: https://charliewil.co/rss.xml
           readme-section: feed
+          branch: main
+          max: 5
+          template: * [{{ title }}]({{ link }})
