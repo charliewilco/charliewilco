@@ -1,7 +1,7 @@
 # 🧑‍💻
 
 - 🔭 I’m currently working on [Downwrite](https://github.com/charliewilco/downwrite)
-- 🌱 I’m currently learning Kotlin and React Native
+- 🌱 I’m currently learning Swift and Go
 - 😄 Pronouns: they/them
 
 ### Elsewhere
