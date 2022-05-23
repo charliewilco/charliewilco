@@ -14,9 +14,9 @@
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Dolly](https:&#x2F;&#x2F;charliewil.co&#x2F;jottings&#x2F;7&#x2F;)
 * [Reviewing Pull Requests Like a Human](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;pull-requests)
 * [Wait, I Thought I Knew That](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;wait-i-thought-i-knew-that)
 * [Twenty Twenty](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;twenty-twenty)
 * [Transitions](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;transitions)
-* [Call vs Apply](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;call-vs-apply)
 <!--END_SECTION:feed-->
