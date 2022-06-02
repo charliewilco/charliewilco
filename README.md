@@ -14,9 +14,9 @@
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [How to Be Productive in a World on Fire](https:&#x2F;&#x2F;charliewil.co&#x2F;notes&#x2F;world-on-fire&#x2F;)
+* [Tesler and Complexity](https:&#x2F;&#x2F;charliewil.co&#x2F;notes&#x2F;teslers-law&#x2F;)
 * [Dolly](https:&#x2F;&#x2F;charliewil.co&#x2F;notes&#x2F;dolly&#x2F;)
 * [Reviewing Pull Requests Like a Human](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;pull-requests)
 * [Wait, I Thought I Knew That](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;wait-i-thought-i-knew-that)
-* [Twenty Twenty](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;twenty-twenty)
-* [Transitions](https:&#x2F;&#x2F;charliewil.co&#x2F;writing&#x2F;transitions)
 <!--END_SECTION:feed-->
