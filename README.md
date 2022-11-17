@@ -1,8 +1,7 @@
 # 🧑‍💻
 
-- 🔭 I’m currently working on [Downwrite](https://github.com/charliewilco/downwrite)
-- 🌱 I’m currently learning Rust and Go
-- 😄 Pronouns: they/them
+- 🔭 I’m currently working on [Downwrite](https://github.com/charliewilco/downwrite) and [Reubin](https://github.com/charliewilco/reubin)
+- 🌱 I’m currently learning Rust and Swift
 
 ### Elsewhere
 
