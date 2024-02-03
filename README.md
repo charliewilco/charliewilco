@@ -13,9 +13,9 @@
 ### Latest Posts
 
 <!--START_SECTION:feed-->
+* [Up in the Air](https:&#x2F;&#x2F;charliewil.co&#x2F;notes&#x2F;up-in-the-air&#x2F;)
 * [Cis is Not a Slur](https:&#x2F;&#x2F;charliewil.co&#x2F;notes&#x2F;cis&#x2F;)
 * [Crafting Routines](https:&#x2F;&#x2F;charliewil.co&#x2F;notes&#x2F;crafting-routines&#x2F;)
 * [How to Be Productive in a World on Fire](https:&#x2F;&#x2F;charliewil.co&#x2F;notes&#x2F;world-on-fire&#x2F;)
 * [Tesler and Complexity](https:&#x2F;&#x2F;charliewil.co&#x2F;notes&#x2F;teslers-law&#x2F;)
-* [Dolly](https:&#x2F;&#x2F;charliewil.co&#x2F;notes&#x2F;dolly&#x2F;)
 <!--END_SECTION:feed-->
